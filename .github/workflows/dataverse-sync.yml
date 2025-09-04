@@ -1,0 +1,17 @@
+name: Sync to CUHK Data Repository
+
+on: 
+  release:
+    types: [published]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send repo to CUHK Data Repository 
+        uses: IQSS/dataverse-uploader@v1.4
+        with:
+          DATAVERSE_TOKEN: ${{secrets.DATAVERSE_TOKEN}}
+          DATAVERSE_SERVER: https://researchdata.cuhk.edu.hk
+          DATAVERSE_DATASET_DOI: ${{secrets.CUHK_DATASET_DOI}}

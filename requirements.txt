@@ -1,0 +1,33 @@
+# Core dependencies
+torch>=1.9.0
+torchvision>=0.10.0
+numpy>=1.21.0
+opencv-python>=4.5.0
+matplotlib>=3.4.0
+scipy>=1.7.0
+
+# Computer vision and image processing
+Pillow>=8.3.0
+scikit-image>=0.18.0
+
+# Data handling
+pandas>=1.3.0
+h5py>=3.1.0
+
+# Visualization
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# ROS integration (if needed)
+rospy>=1.14.0
+sensor-msgs>=1.13.0
+
+# Additional utilities
+tqdm>=4.62.0
+argparse
+pathlib
+dataclasses
+
+# SAM2 dependencies
+segment-anything-2
+transformers>=4.20.0

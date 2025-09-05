@@ -22,10 +22,18 @@ SURP2025-9DTact/
 ├── code/
 │   ├── original_9dtact/          # Original 9DTact code (attributed)
 │   └── my_contributions/         # My original work
-├── data/                         # Research data
-├── figures/                      # All figures
+├── data/                         # Research data - includes all pre- and post-processed images/videos used to generate poster figures
+├── figures/                      # All figures organized by poster sections
+│   └── poster_figures/           # Figures organized by poster sections
+│       ├── 01_hardware_setup/    # Hardware & Setup
+│       ├── 02_calibration_distortion/ # Calibration and distortion removal
+│       ├── 03_contact_region_detection/ # Contact Region Detection
+│       ├── 04_force_deformation_time/ # Force-Deformation over Time
+│       ├── 05_depth_reconstruction/ # Depth Reconstruction
+│       ├── 06_force_depth_dataset/ # Force-Depth Dataset and Regression
+│       └── 07_case_study_15N/    # Case Study: 15N Contact
 ├── documentation/                # Complete documentation
-├── poster/                       # Poster materials
+├── poster/                       # Poster materials (LaTeX source and compiled PDF)
 └── models/                       # Trained models
 ```
 
@@ -39,5 +47,4 @@ See `documentation/methodology.md` for usage instructions.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-[Your Name] - [Your Email]
-Project Link: [Your GitHub Repository URL]
+[Oliver Young] - [ojyoung@ucsc.edu]

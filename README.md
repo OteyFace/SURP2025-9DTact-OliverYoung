@@ -38,10 +38,10 @@ SURP2025-9DTact/
 ```
 
 ## Installation
-See `documentation/installation.md` for setup instructions.
+See `docs/installation.md` for setup instructions.
 
 ## Usage
-See `documentation/methodology.md` for usage instructions.
+See `docs/methodology.md` for usage instructions.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.

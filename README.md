@@ -59,7 +59,7 @@ I am especially grateful to **Zhang Tao**, who offered exceptional guidance thro
 ## References
 - Luu, Q.K., Nguyen, D.Q., Nguyen, N.H., Dam, N.P., Ho, V.A. *Vision-based Proximity and Tactile Sensing for Robot Arms: Design, Perception, and Control.* Project website: [https://quan-luu.github.io/protac-website](https://quan-luu.github.io/protac-website).  
 - Lin, C., Zhang, H., Xu, J., Wu, L., Xu, H. *9DTact: A Compact Vision-Based Tactile Sensor for Accurate 3D Shape Reconstruction and Generalizable 6D Force Estimation.* Project site: [https://linchangyi1.github.io/9DTact](https://linchangyi1.github.io/9DTact). arXiv:2308.14277.  
-- IEEE Xplore document (arnumber 11027485): [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11027485](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11027485).  
+- Y. Xiang, L. Zhu, A. Song and Y. J. Zhang, "Tactile Elastography," in IEEE Transactions on Robotics, vol. 41, pp. 3722-3737, 2025, doi: 10.1109/TRO.2025.3577024.
 
 ---
 

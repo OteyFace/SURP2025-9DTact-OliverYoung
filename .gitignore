@@ -20,7 +20,7 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
-data/processed/frames/*
+data/processed/calibration/frames/*
 
 
 # Virtual environments
